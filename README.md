@@ -19,4 +19,4 @@ _Описание проекта NeuroStartUp:_
 * Низкая цена
 
 Логотип:
-![](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png/logo.png)
+![Это опциональный alt-текст](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png/logo.png)
